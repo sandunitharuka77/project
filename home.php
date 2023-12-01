@@ -48,7 +48,7 @@ require "connection.php";
                                 ?>
 
                                     <option value="<?php echo $category_data["cat_id"]; ?>">
-                                        <?php echo $category_data["cat_name"]; ?>
+                                        <?php echo $category_data["category_name"]; ?>
                                     </option>
 
                                 <?php
