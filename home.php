@@ -117,14 +117,7 @@ require "connection.php";
 
                     <!-- Carousel -->
                     
-                    <?php
                     
-                    $c_rs = Database::search("SELECT * FROM `category`");
-                    $c_num = $c_rs->num_rows;
-                    
-                    for($y=0; $y < $c_num; $y++ ){
-                        $c_data = $c_rs->fetch_assoc();
-                    ?>
                     
                     <!--category name-->
 
