@@ -190,7 +190,7 @@ require "connection.php";
                     <!--products-->
 
                     <?php
-                    }
+                  
                     ?>
                     
 
