@@ -26,7 +26,7 @@ require "connection.php";
 
             <div class="col-12 justify-content-center">
                 <div class="row mb-3">
-                    <div class="offset-4 offset-lg-1 col-4 col-lg-1 logo" style="height: 60px;"></div>
+                    <div class="offset-4 offset-lg-1 col-4 col-lg-1 logo" style="height: 100px;"></div>
                 
 
                     <div class="col-12 col-lg-6">
@@ -63,7 +63,7 @@ require "connection.php";
                     </div>
 
                     <div class="col-12 col-lg-2 d-grid">
-                        <button class="btn btn-primary mt-3 mb-3">Search</button>
+                        <button class="btn btn-primary mt-3 mb-3">Search Me</button>
                     </div>
 
                     <div class="col-12 col-lg-2 mt-2 mt-lg-4 text-center text-lg-start">
